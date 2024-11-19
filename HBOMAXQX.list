@@ -1,4 +1,5 @@
 # HBOMAX QX专用
+HOST-KEYWORD,.hbogoasia.
 HOST,hboasia1-i.akamaihd.net
 HOST,hboasia2-i.akamaihd.net
 HOST,hboasia3-i.akamaihd.net
@@ -13,9 +14,6 @@ HOST,s3-ap-southeast-1.amazonaws.com
 HOST,wmff.warnermediacdn.com
 HOST-SUFFIX,hbogoasia.com
 HOST-SUFFIX,hbogoasia.hk
-HOST-KEYWORD,.hbogoasia.
-USER-AGENT,HBO%20GO%20PROD*
-HOST,wmff.warnermediacdn.com
 HOST-SUFFIX,hboasia.com
 HOST-SUFFIX,hboasia1-i.akamaihd.net
 HOST-SUFFIX,hboasia2-i.akamaihd.net
@@ -39,7 +37,6 @@ HOST-SUFFIX,now-tv.com
 HOST-SUFFIX,now.com.hk
 HOST-SUFFIX,nowe.com
 HOST-SUFFIX,nowe.hk
-HOST,wmff.warnermediacdn.com
 HOST-SUFFIX,cinemax.com
 HOST-SUFFIX,discomax.com
 HOST-SUFFIX,h264.io
