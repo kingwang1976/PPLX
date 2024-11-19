@@ -1,11 +1,4 @@
-# NAME: HBOUSA
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:49
-# HOST: 3
-# HOST-SUFFIX:13
-# USER-AGENT: 1
-# TOTAL: 17
+# NAME: HBOMAX
 HOST,telegraph.prd.api.discomax.com,HBOUSA
 HOST,wmff.warnermediacdn.com,HBOUSA
 host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
@@ -21,4 +14,44 @@ HOST-SUFFIX,hbonow.com,HBOUSA
 HOST-SUFFIX,maxgo.com,HBOUSA
 HOST-SUFFIX,max.com,HBOUSA
 HOST-SUFFIX,play.max.com,HBOUSA
-USER-AGENT,HBOMAX*,HBOUSA
+HOST-SUFFIX,bcbolthboa-a.akamaihd.net
+HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+HOST-SUFFIX,dai3fd1oh325y.cloudfront.net
+HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com
+HOST-SUFFIX,forthethrone.com
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbo.com.c.footprint.net
+HOST-SUFFIX,hbo.com.edgesuite.net
+HOST-SUFFIX,hbo.map.fastly.net
+HOST-SUFFIX,hboasia.com
+HOST-SUFFIX,hboasia1-i.akamaihd.net
+HOST-SUFFIX,hboasia2-i.akamaihd.net
+HOST-SUFFIX,hboasia3-i.akamaihd.net
+HOST-SUFFIX,hboasia4-i.akamaihd.net
+HOST-SUFFIX,hboasia5-i.akamaihd.net
+HOST-SUFFIX,hboasialive.akamaized.net
+HOST-SUFFIX,hbogeo.cust.footprint.net
+HOST-SUFFIX,hbogo.co.th
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbogo.eu
+HOST-SUFFIX,hbogoasia.com
+HOST-SUFFIX,hbogoasia.hk
+HOST-SUFFIX,hbogoasia.id
+HOST-SUFFIX,hbogoasia.ph
+HOST-SUFFIX,hbogoasia.sg
+HOST-SUFFIX,hbogoasia.tw
+HOST-SUFFIX,hbogoprod-vod.akamaized.net
+HOST-SUFFIX,hbolb.onwardsmg.com
+HOST-SUFFIX,hbounify-prod.evergent.com
+HOST-SUFFIX,manifest.prod.boltdns.net
+HOST-SUFFIX,now-ashare.com
+HOST-SUFFIX,now-tv.com
+HOST-SUFFIX,now.com
+HOST-SUFFIX,now.com.hk
+HOST-SUFFIX,nowe.com
+HOST-SUFFIX,nowe.hk
+HOST-SUFFIX,players.brightcove.net
+HOST-SUFFIX,youboranqs01.com
+USER-AGENT,HBO%20NOW*
+USER-AGENT,HBOMAX*
